@@ -15,7 +15,7 @@ A page replica of a Apple main page using HTML and CSS.
 
 ## Features:
 
-- Replica of the [1996 Apple website](https://web.archive.org/web/20140301004610/http://www.apple.com/)
+- Replica of the [2014 Apple website](https://web.archive.org/web/20140301004610/http://www.apple.com/)
 - Preview of the final page at: https://jfariasf.github.io/apple_gradients/
 
 Made by Javier Arias @jfariasf
