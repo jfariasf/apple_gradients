@@ -151,9 +151,11 @@ footer ul li:not(:last-child):after {
 }
 
 /* apple logo */
+
 .logo-container {
 	color: transparent;
 }
+
 .apple-logo {
 	position: absolute;
 	height: 25px;
