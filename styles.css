@@ -83,7 +83,7 @@ nav {
 
 /* nav style */
 
-nav a:link, a:visited {
+nav a:link, nav a:visited {
 	color: white;
 	text-decoration: none;
 }
