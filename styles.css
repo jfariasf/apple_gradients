@@ -75,7 +75,16 @@ nav {
   width: 980px;
 }
 
+aside ul li {
+  width: 25%;
+  height: 200px;
+}
+
 /* nav style */
+
+aside a {
+  overflow: hidden;
+}
 
 nav a:link,
 nav a:visited {
@@ -193,7 +202,7 @@ footer ul li:not(:last-child)::after {
 /* width and margin section */
 
 .page-width {
-  width: 1320px;
+  width: 100%;
 }
 
 .margin-center {
